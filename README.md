@@ -1,0 +1,1 @@
+This project is focused on developing a wep app that can accept input such age, gender, bmi level, blood glucose level, heart disease status, hypertension status and HbA1C level of patients and predict the diabetes status of the patients based on these input data. 
